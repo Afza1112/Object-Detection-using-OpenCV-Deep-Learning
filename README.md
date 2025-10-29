@@ -24,5 +24,5 @@ It detects and highlights objects in images or videos with bounding boxes, label
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Object-Detection.git
+   git clone https://github.com/Afza1112/Object-Detection.git
    cd Object-Detection
